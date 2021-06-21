@@ -1,0 +1,13 @@
+div.nav-item-selected {
+    background-color: #EADEC8;
+    font-weight: bold;
+}
+
+div.nav-item {
+    border-width: 2px;
+    border-color: #DABEA8;
+}
+
+div.nav-item:hover {
+    cursor: pointer;
+}
